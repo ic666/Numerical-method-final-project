@@ -25,4 +25,5 @@
 
 ## 三、	研究方法及步驟
 這次使用的資料集Mobile Price Classification總共只有2000個training data、21個特徵。本研究利用常見的資料前處理方式進行分析，再利用7種機器學習方法，計算分類的準確率，比較各方法的效果並利用各方法的混淆矩陣，試分析影響手機定價的具體因素。
-![pic1](https://drive.google.com/file/d/1fG0FyCpCSZFMQo1hwZ9t2A9E_JbE9GoG/view?usp=sharing)
+
+!["dic1"](https://drive.google.com/file/d/1fG0FyCpCSZFMQo1hwZ9t2A9E_JbE9GoG/view?usp=sharing)
