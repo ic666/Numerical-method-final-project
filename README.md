@@ -51,3 +51,13 @@ Ensemble Learning(集成學習)主要用來減小監督式學習中的偏差(Bio
 
 很高興也很感謝這學期的數值方法課程，包含老師的指導與助教的協助，雖然大多數是線上教學，但內容相當豐富，每周的lab跟作業也提升了實作的能力，期待未來的路上也能發揮所學。
 
+## 參考文獻
+[1] I. M. Nasser, Mohammed Al-Shawwa, "ANN for Predicting Mobile Phone Price Range", International Journal of Academic Information Systems Research (IJAISR)Vol. 3 Issue 2, February – 2019, Department of Information Technology Faculty of Engineering & Information Technology
+[2]Groß, M. (2015), "Mobile shopping: a classification framework and literature review", International Journal of Retail & Distribution Management, Vol. 43 No. 3, pp. 221-241.
+[3] Dongliang Huang; Hamidreza Zareipour; William D. Rosehart; Nima Amjady(2012)Data Mining for Electricity Price Classification and the Application to Demand-Side Management
+[4] Mustafa Çetın; Yunus Koç (2021)Mobile Phone Price Class Prediction Using Different Classification Algorithms with Feature Selection and Parameter Optimization, 2021 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+[5] K. S. Kalaivan , N. Priyadharshini , S. Nivedhashri , and R. Nandhini, Predicting the price range of mobile phones using machine learning techniques, AIP Conference Proceedings 2387, 140010 (2021)
+
+[6] S. Selvin, R.Vinayakumar, E. Gopalakrishnan, V. K. Menon, and K. Soman (2017). Stock price prediction using LSTM, RNN and CNNsliding window model. In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)
+
+[7] L. Zhenga, and H. Heb, "Share Price Prediction of Aerospace Relevant Companies with Recurrent Neural Networks based on PCA", AVIC General Huanan Aircraft Industry Co., Ltd., Aviation Industry Zone, Sanzao Town, Jinwan District, Zhuhai City, Guangdong Province, China, 519040 , School of Aerospace, Transport and Manufacturing, Cranfield University, Cranfield, 26 August 2020
