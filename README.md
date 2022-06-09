@@ -53,9 +53,13 @@ Ensemble Learning(集成學習)主要用來減小監督式學習中的偏差(Bio
 
 ## 參考文獻
 [1] I. M. Nasser, Mohammed Al-Shawwa, "ANN for Predicting Mobile Phone Price Range", International Journal of Academic Information Systems Research (IJAISR)Vol. 3 Issue 2, February – 2019, Department of Information Technology Faculty of Engineering & Information Technology
+
 [2]Groß, M. (2015), "Mobile shopping: a classification framework and literature review", International Journal of Retail & Distribution Management, Vol. 43 No. 3, pp. 221-241.
+
 [3] Dongliang Huang; Hamidreza Zareipour; William D. Rosehart; Nima Amjady(2012)Data Mining for Electricity Price Classification and the Application to Demand-Side Management
+
 [4] Mustafa Çetın; Yunus Koç (2021)Mobile Phone Price Class Prediction Using Different Classification Algorithms with Feature Selection and Parameter Optimization, 2021 5th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)
+
 [5] K. S. Kalaivan , N. Priyadharshini , S. Nivedhashri , and R. Nandhini, Predicting the price range of mobile phones using machine learning techniques, AIP Conference Proceedings 2387, 140010 (2021)
 
 [6] S. Selvin, R.Vinayakumar, E. Gopalakrishnan, V. K. Menon, and K. Soman (2017). Stock price prediction using LSTM, RNN and CNNsliding window model. In 2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)
